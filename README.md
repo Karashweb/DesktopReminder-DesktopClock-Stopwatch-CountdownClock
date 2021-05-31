@@ -1,2 +1,3 @@
 # DesktopReminder-DesktopClock-Stopwatch-CountdownClock
-Windows Forms simple program. All - in - one: reminder with notifications + desktop clock + stopwatch + countdown clock. Added exe file for direct installation.
+Самая первая модульная программа на C#, создавалась с целью ознакомления с написанием пользовательских модульных программ.  
+Писалась до изучения правил написания кода и до изучения структур проектов, поэтому код в ненадлежащем состоянии.
